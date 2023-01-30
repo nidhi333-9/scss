@@ -1,1 +1,4 @@
 node_modules
+_variables.scss
+_base.scss
+_card.scss
