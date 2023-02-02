@@ -17,12 +17,12 @@
   }
 
   // dark variations
-  @for $i from 1 through 9 {
-    .text-#{$key}-dark-#{$i} {
-      color: mix(black, $val, $i * 10%);
-    }
-    .bg-#{$key}-dark-#{$i} {
-      background-color: mix(black, $val, $i * 10%);
-    }
-  }
+  // @for $i from 1 through 9 {
+  //   .text-#{$key}-dark-#{$i} {
+  //     color: mix(black, $val, $i * 10%);
+  //   }
+  //   .bg-#{$key}-dark-#{$i} {
+  //     background-color: mix(black, $val, $i * 10%);
+  //   }
+  // }
 }
